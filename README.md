@@ -1,4 +1,5 @@
-life long learner
+hey! i'm maxim.
+
 
 <!--
 **otezs/otezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
