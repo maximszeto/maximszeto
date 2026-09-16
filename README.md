@@ -1,5 +1,4 @@
-hey! i'm maxim.
-
+it's maxim not max
 
 <!--
 **otezs/otezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
